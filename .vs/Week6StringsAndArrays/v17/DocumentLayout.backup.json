@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elisa\\source\\repos\\Week6StringsAndArrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{513AB31B-171E-402C-ACF7-D49047B59E14}|Arrays\\Arrays.csproj|c:\\users\\elisa\\source\\repos\\week6stringsandarrays\\arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{513AB31B-171E-402C-ACF7-D49047B59E14}|Arrays\\Arrays.csproj|solutionrelative:arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43727366-E9CC-4E2C-82D8-5929A939E160}|Week6StringsAndArrays\\Week6StringsAndArrays.csproj|c:\\users\\elisa\\source\\repos\\week6stringsandarrays\\week6stringsandarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43727366-E9CC-4E2C-82D8-5929A939E160}|Week6StringsAndArrays\\Week6StringsAndArrays.csproj|solutionrelative:week6stringsandarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elisa\\source\\repos\\Week6StringsAndArrays\\Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "Arrays\\Program.cs",
+              "ToolTip": "C:\\Users\\elisa\\source\\repos\\Week6StringsAndArrays\\Arrays\\Program.cs",
+              "RelativeToolTip": "Arrays\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T11:14:20.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elisa\\source\\repos\\Week6StringsAndArrays\\Week6StringsAndArrays\\Program.cs",
+              "RelativeDocumentMoniker": "Week6StringsAndArrays\\Program.cs",
+              "ToolTip": "C:\\Users\\elisa\\source\\repos\\Week6StringsAndArrays\\Week6StringsAndArrays\\Program.cs",
+              "RelativeToolTip": "Week6StringsAndArrays\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:58:35.653Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
